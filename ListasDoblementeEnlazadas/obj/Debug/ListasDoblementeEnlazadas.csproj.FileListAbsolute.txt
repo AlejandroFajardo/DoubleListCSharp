@@ -1,0 +1,6 @@
+B:\C#\ListasDoblementeEnlazadas\ListasDoblementeEnlazadas\bin\Debug\ListasDoblementeEnlazadas.exe.config
+B:\C#\ListasDoblementeEnlazadas\ListasDoblementeEnlazadas\bin\Debug\ListasDoblementeEnlazadas.exe
+B:\C#\ListasDoblementeEnlazadas\ListasDoblementeEnlazadas\bin\Debug\ListasDoblementeEnlazadas.pdb
+B:\C#\ListasDoblementeEnlazadas\ListasDoblementeEnlazadas\obj\Debug\ListasDoblementeEnlazadas.csproj.CoreCompileInputs.cache
+B:\C#\ListasDoblementeEnlazadas\ListasDoblementeEnlazadas\obj\Debug\ListasDoblementeEnlazadas.exe
+B:\C#\ListasDoblementeEnlazadas\ListasDoblementeEnlazadas\obj\Debug\ListasDoblementeEnlazadas.pdb
