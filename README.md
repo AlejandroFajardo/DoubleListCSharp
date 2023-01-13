@@ -1,2 +1,2 @@
-# ListasDoblesCSharp
-Implementación de teoría de listas doblemente enlazadas en C#
+# Double list CSharp
+C# Double List Theory Implementation example
